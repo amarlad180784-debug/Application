@@ -1,0 +1,6 @@
+{
+  "name": "Stock Growth 200",
+  "description": "Quantitative NSE/BSE equity research workbench evaluating 200 fundamental, business, market, valuation, and macro factors with deep thinking synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
